@@ -5,4 +5,13 @@
 3. Javascript
 
 ## Acerca del Programador 
-Autor: Harold 
+Autor: Harold Quispe
+
+Mi carrera es : **Ingenieria de Softwre**
+Puedes escribirme a mi correo *efrainqm16@gmail.com*
+
+## Otras Tecnologias:
+-Java
+-PHP
+-Sql
+-Python
